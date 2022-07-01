@@ -1,2 +1,3 @@
 # FPGA-VHDL-
-VHDL FPGA Digital  electronic example DSP
+FPGA Digital  electronic code written in VHDL languge example DSP
+
